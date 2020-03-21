@@ -5,5 +5,4 @@ Telegraf-InfluxDB-Grafana (TIG Stack) as my simple home monitoring setup.
 ![Grafana](/Pictures/Lower.png)
 
 # Telegraf
-Installed telegraf on home server
-
+Installed telegraf on local linux
